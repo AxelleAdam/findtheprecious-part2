@@ -1,0 +1,298 @@
+@font-face {
+    font-family: Aniron;
+    src: url(anirm___.ttf);
+  }
+
+@font-face {
+    font-family:party business;
+    src: url(partybusiness.ttf);
+}
+@font-face{
+    font-family:tngan;
+    src: url(tngan.ttf);
+}
+
+@font-face{
+    font-family:tngani;
+    src: url(tngani.ttf);
+}
+
+a {
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:none;
+}
+
+.badge{
+    color:grey !important;
+    font-family:aniron !important;
+    font-size:15px;
+}
+
+.badge2{
+    color:darkorange !important;
+    font-family:aniron !important;
+    font-size:15px;
+    border-bottom:4px solid darkorange;
+}
+
+.signe2{
+ font-family:tngani, 'sans-serif';
+ padding:5px;
+ color:darkorange;
+ font-size:25px;
+}
+
+.mes_badges{
+    margin:auto;
+    text-align:center;
+}
+
+h2{
+    font-family:aniron;
+    font-size:24px;
+}
+
+h5{
+    position:absolute;
+    top:-5em; 
+    color:whitesmoke;
+    font-family:party business, 'sans-serif';
+    font-size:70px;
+}
+
+.signe{
+    font-family:tngani, 'sans-serif';
+    color:orange;
+    font-size:25px;
+    padding:5px;
+    margin-left:2px;
+}
+
+.later{
+    font-family:aniron, 'sans-serif';
+    font-size:15px;
+}
+
+.quotetext{
+    position:absolute;
+    top:-5em;
+    font-family:party business, 'sans-serif';
+    font-size:45px;
+}
+
+.btn{
+    border:1px solid black;
+    text-align:center;
+    margin-left:5px;
+}
+
+.titlep{
+    text-align:center;
+    background:darkgrey;
+    font-family:aniron;
+}
+.cadres{
+    border:1px solid black;
+}
+
+.titre1{
+    padding:5px;
+    text-align:center;
+}
+.titre2{
+    padding:5px;
+    text-align:center;
+    margin:auto;
+}
+.image_carte{
+    background:rgba(0, 0, 0, 0.2);
+    transition: all 0.5s ease;
+   }
+   
+.image_carte:hover{
+    opacity:1;
+}
+   
+/*.image_carte img{
+    background:rgba(0, 0, 0, 0.2);
+}*/
+   
+.image_carte:hover img{opacity:1;}
+     
+
+.texte{
+    position: absolute;
+    top:2%;
+    left:15%;
+    font-family:party business;
+    font-size:35px;
+    text-align:center;
+    color:black;
+    background:rgba(255, 255, 255, 0.5);
+    box-shadow:#f5f5f5 0 0 10px 0;
+    border-radius:20px;
+    padding:10px;
+    width:75%;
+    height:25%;
+    overflow:hidden;
+    }
+
+.texte:hover{
+opacity:0;
+}
+.card{
+    background-color:rgba(255,255,255,0.8);
+
+}
+.card:hover{
+    opacity:1;}
+
+.imageget{
+    width:150px;
+    padding:5px;
+}
+
+.imagehunter{
+    width:85px;
+    height:85px;
+    padding:5px;
+}
+
+.imagering{
+    width:100px;
+    height:100px;
+    border-radius:90%;
+    float:right;
+}
+
+.imgsauron{
+    width:100px;
+    height:100px;
+    float:left;
+    padding:5px;
+}
+
+.bloc1{
+    position: absolute;
+}
+
+.bloc2{
+    position: absolute;
+    left:35%;
+}
+
+.bloc3{
+    position: absolute;
+    left:65%;
+}
+
+.navbar {
+    background:orangered;
+    color:whitesmoke;
+    font-family:Aniron;
+}
+
+.navbar a{
+    color:whitesmoke;
+    font-family:Aniron;
+    font-size:15px;
+    font-weight:bold;
+    text-align:right;
+}
+
+.nav-link:hover{
+    border-bottom:3px solid whitesmoke;
+    font-family:aniron;
+}
+
+.fellows{
+    background:rgb(241, 240, 240);
+    border:rgb(190, 190, 190) 1px solid;
+    padding:5px;
+}
+
+.card{
+    background:rgb(36, 36, 36);
+    font-family:party business;
+    color:whitesmoke;
+}
+.card-title{
+font-size:50px;
+position:absolute;
+top:40%;
+left:30%;
+}
+.card-text{
+    font-size:40px;
+}
+
+.gold{
+    color:darkorange;
+}
+
+.card-title-dead{
+    font-size:50px;
+    position:absolute;
+    top:40%;
+    left:40%;
+    text-decoration: line-through darkorange;
+}
+
+
+.texte-dead{
+    position: absolute;
+    top:2%;
+    left:40%;
+    font-family:party business;
+    font-size:50px;
+    text-align:center;
+    color:darkorange;
+    }
+
+#GetMyReward {
+    background:rgb(36, 36, 36);
+    color:whitesmoke;
+    padding:10px;
+    border-top:darkorange 2px solid;
+    border-bottom:darkorange 2px solid;
+    font-family:party business;
+    font-size:30px;
+}
+
+.getreward{
+    text-align:justify;
+    padding:10px;
+}
+
+.imageget{
+    border-radius:90%;
+}
+
+.btncontact{
+    font-family:aniron;
+    background:whitesmoke;
+    color:darkorange !important;
+    text-align:center;
+    padding:10px;
+    font-size:20px;
+    border:whitesmoke 1px solid;
+}
+
+#BestHunters{
+    background:rgb(241, 240, 240);
+    border:rgb(190, 190, 190) 1px solid;
+    padding:5px;
+}
+
+#TheRing{
+    background:rgb(36, 36, 36);
+    color:whitesmoke;
+    padding:10px;
+    border-top:darkorange 2px solid;
+    border-bottom:darkorange 2px solid;
+    font-family:party business;
+    font-size:30px;
+}
